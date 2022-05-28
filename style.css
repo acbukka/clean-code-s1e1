@@ -15,6 +15,7 @@
   margin: 0 auto;
   display: block;
   text-align: right;
+  padding-bottom: 18px;
 }
 
 .matrix__img {
@@ -38,6 +39,10 @@
   width: 56%;
   display: inline-block;
   flex-grow: 1;
+}
+
+.new-tasks {
+  padding-bottom: 15px;
 }
 
 .new-tasks__row {
